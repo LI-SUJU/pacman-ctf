@@ -54,6 +54,7 @@ from game import Directions
 from game import Actions
 from util import nearestPoint
 from util import manhattanDistance
+import importlib.util
 from game import Grid
 from game import Configuration
 from game import Agent
